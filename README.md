@@ -64,7 +64,7 @@ Built a Truth Validation System leveraging AI and Natural Language Processing (N
 
 ## 📫 How to reach me:
 - **Email**: [sushilrindhe29@gmail.com](mailto:sushilrindhe29@gmail.com)
-- **LinkedIn**: [linkedin.com/in/sushil-rindhe](https://www.linkedin.com/in/sushil-rindhe/)
+- **LinkedIn**: [linkedin.com/in/sushilrindhe](https://www.linkedin.com/in/sushilrindhe/)
 
 ---
 
