@@ -62,9 +62,10 @@ Built a **Truth Validation System** leveraging **AI** and **Natural Language Pro
 
 ---
 
-## 🛠 Languages and Tools:
 
-<p align="left"> 
+## 🛠️ Languages and Tools
+
+<p align="center"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
   </a> 
