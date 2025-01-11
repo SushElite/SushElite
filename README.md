@@ -90,8 +90,6 @@ Built a **Truth Validation System** leveraging **AI** and **Natural Language Pro
   </a>
 </p>
 
-⭐️⭐️⭐️⭐️ **Proficient** – **React**, **Angular**, **JavaScript**, **TypeScript**
-
 ---
 
 ### 🖥️ **Backend:**
@@ -107,10 +105,6 @@ Built a **Truth Validation System** leveraging **AI** and **Natural Language Pro
   </a>
 </p>
 
-⭐️⭐️⭐️⭐️ **Proficient** – **Node.js**, **Express**, **Python**
-
-⭐️⭐️⭐️ **Intermediate** – **Flask**, **FastAPI**
-
 ---
 
 ### ☁️ **Cloud & DevOps:**
@@ -123,9 +117,6 @@ Built a **Truth Validation System** leveraging **AI** and **Natural Language Pro
   </a>
 </p>
 
-⭐️⭐️⭐️ **Intermediate** – **AWS Services**, **Docker**
-
-⭐️ **Elementary** – **Kubernetes**, **CI/CD Tools**
 
 ---
 
@@ -142,6 +133,5 @@ Built a **Truth Validation System** leveraging **AI** and **Natural Language Pro
   </a>
 </p>
 
-⭐️⭐️⭐️ **Intermediate** – **MongoDB**, **PostgreSQL**
 
 ---
