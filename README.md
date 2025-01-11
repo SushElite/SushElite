@@ -17,6 +17,11 @@
 
 ---
 
+## 📂 Disclaimer:
+🔒 **Note:** This is my **personal GitHub account**. The majority of my contributions are part of **private repositories** hosted on my **company's GitHub account**, which includes proprietary and confidential projects.
+
+---
+
 ## 🔧 Projects I’ve Worked On:
 
 ### 🚀 1. **AI-Powered Video Recording Tool**  
@@ -54,11 +59,6 @@ Built a **Truth Validation System** leveraging **AI** and **Natural Language Pro
 | AI and NLP                      | **OpenAI models**, **Prompt Engineering**   |
 | Scalable System Design          | **System Design Principles**                |
 | No-Code Platforms               | **Building Workflow & Form Builders**       |
-
----
-
-## 📂 Disclaimer:
-🔒 **Note:** This is my **personal GitHub account**. The majority of my contributions are part of **private repositories** hosted on my **company's GitHub account**, which includes proprietary and confidential projects.
 
 ---
 
