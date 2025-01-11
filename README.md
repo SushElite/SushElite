@@ -39,7 +39,7 @@ Developed a **Video Content Creation Platform** to help users create **professio
 ---
 
 ### 🤖 2. **Automated Truth Validation System**  
-Built a **Truth Validation System** leveraging **AI** and **Natural Language Processing (NLP)** to ensure **data accuracy** in video content.
+Built a Truth Validation System leveraging AI and Natural Language Processing (NLP) to ensure data accuracy in texts, documents, audio, and videos.
 
 **Key Contributions:**
 - Developed an **automated truth verification pipeline** achieving **95% accuracy** in detecting inconsistencies in data.
