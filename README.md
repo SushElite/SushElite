@@ -23,8 +23,8 @@
 Developed a **Video Content Creation Platform** to help users create **professional video resumes** and **personalized messages** to improve hiring success rates.
 
 **Key Contributions:**
-- Built a **Recording Studio** with features like video recording, trimming, background customization, and editing tools.
-- Implemented an **AI-Powered Script Generator** for personalized scripts, reducing manual effort for users.
+- Built a **Recording Studio** with features like video recording, trimming, background customization, and editing tools using **Google Mediapipe**.
+- Integrated **AI-Powered Script Generator** for personalized scripts using **OpenAI models** to reduce manual effort for users.
 - Developed a **Teleprompter** for smooth, professional script reading during video recordings.
 - Designed a **Personalized Dashboard** to manage and share video content.
 - Enhanced **video and audio synchronization** to ensure seamless playback across devices.
@@ -49,19 +49,24 @@ Built a **Truth Validation System** leveraging **AI** and **Natural Language Pro
 |---------------------------------|---------------------------------------------|
 | Full Stack Development          | **React.js**, **Node.js**, **Next.js**, **Redux** |
 | Cloud Services                  | **AWS (EC2, S3, Lambda, DynamoDB)**         |
-| Video Processing                | **FFmpeg**, **Video Encoding & Transcoding** |
+| Video Processing                | **FFmpeg**, **Google Mediapipe**            |
 | Task Automation                 | **Celery**, **Redis**, **SQS**              |
+| AI and NLP                      | **OpenAI models**, **Prompt Engineering**   |
 | Scalable System Design          | **System Design Principles**                |
 | No-Code Platforms               | **Building Workflow & Form Builders**       |
 
 ---
 
-## 📫 How to reach me:
-- **Email**: [sushilrindhe29@gmail.com](mailto:sushilrindhe29@gmail.com)
-- **LinkedIn**: [linkedin.com/in/sushilrindhe](https://www.linkedin.com/in/sushilrindhe/)
+## 📂 Disclaimer:
+🔒 **Note:** This is my **personal GitHub account**. The majority of my contributions are part of **private repositories** hosted on my **company's GitHub account**, which includes proprietary and confidential projects.
 
 ---
 
+## 📫 How to reach me:
+- **Email**: [sushilrindhe29@gmail.com](mailto:sushilrindhe29@gmail.com)
+- **LinkedIn**: [linkedin.com/in/sushil-rindhe](https://www.linkedin.com/in/sushil-rindhe/)
+
+---
 
 ## 🛠 Languages and Tools
 
@@ -114,7 +119,6 @@ Built a **Truth Validation System** leveraging **AI** and **Natural Language Pro
   </a>
 </p>
 
-
 ---
 
 ### 🗄️ **Databases:**
@@ -129,6 +133,5 @@ Built a **Truth Validation System** leveraging **AI** and **Natural Language Pro
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
 </p>
-
 
 ---
